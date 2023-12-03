@@ -4,3 +4,6 @@
 [submodule "day01"]
 	path = day01
 	url = ssh://git@github.com/AdventOfCode2023-Massey/day01.git
+[submodule "day03"]
+	path = day03
+	url = ssh://git@github.com/AdventOfCode2023-Massey/day03.git
